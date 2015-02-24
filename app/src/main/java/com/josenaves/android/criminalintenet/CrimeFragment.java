@@ -1,9 +1,7 @@
 package com.josenaves.android.criminalintenet;
 
-import android.app.FragmentManager;
 import android.os.Bundle;
-import android.app.Fragment;
-import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
@@ -14,7 +12,6 @@ import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.EditText;
-import android.widget.TextView;
 
 import java.text.SimpleDateFormat;
 import java.text.DateFormat;
